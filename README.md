@@ -18,4 +18,4 @@ Related to classical and state-of-art technology and engineering facts or some c
 
 Some recommendations of how to do science and play with technology, such as writing scientific papers, filing patents and preparing proposals for grants.
 
-1. [12/25/2017 About doing a project and writing a paper](https://)
+1. [12/25/2017 About doing a project and writing a paper](https://github.com/troylhy1991/troylhy1991.github.io/blob/master/Method/1_do_project_write_paper)
