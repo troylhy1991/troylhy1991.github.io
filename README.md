@@ -12,7 +12,9 @@ Related to discoveries, theories, experiments etc.
 
 Related to classical and state-of-art technology and engineering facts or some cool hacking tricks!
 
-1. [12/25/2017 ](https://www.google.com/)
+1. [01/13/2018 Recent Progress on CNNs for Object Detection and Image Compression ](https://berkeley-deep-learning.github.io/cs294-131-s17/slides/sukthankar-UC-Berkeley-InvitedTalk-2017-02.pdf)
+
+2.[01/14/2018 The Microscope Makers](https://www.nature.com/articles/d41586-017-07528-7)
 
 ### Methodology Blogs
 
